@@ -3,7 +3,6 @@ Python task of the hyperiondev take home task. I've placed my code review in thi
 
 
 ***Python Version 3.10 or above***
-***Java Version 8 or above***
 
 
 ## Installation
