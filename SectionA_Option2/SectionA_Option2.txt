@@ -1,0 +1,25 @@
+1.Correctness: 2/4
+
+2.Efficiency: 4/4
+
+3.Style: 4/4
+
+4.Documentation: 4/4
+
+
+Positive aspects of your code:
+
+Great first try! Your work is neat and easily readable. You have properly formatted your code and added the appropriate comments.
+Your on your way to completing this task! 
+
+
+Aspects of the submission that could be improved:
+
+Great work, but unfortunately your code doe's not run due to an "Unresolved compilation problem" error. On line 27 you returned 
+"reverseString" instead of the "reverse_string" method which you defined. 
+Also on line 31 you have duplicate variable names.
+
+
+Overall feedback
+
+Great Submission overall, very well done! Just fix the problems mentioned above and I'll take another look.
