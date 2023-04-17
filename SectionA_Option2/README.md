@@ -7,7 +7,7 @@ Java task of the hyperiondev take home task. I've placed my code review in this 
 
 ## Installation
 
-Create a new java project in your the java IDE of yur choice. Place file in your project under the src folder and run. 
+Create a new java project in the java IDE of yur choice. Place file in your project under the src folder and run it. 
 You might have to define a java package under src and place the code there. Thanks.
 
 ## Contributors
