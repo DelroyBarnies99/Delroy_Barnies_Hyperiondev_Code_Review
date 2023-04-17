@@ -1,9 +1,6 @@
 1.Correctness: 2/4
-
 2.Efficiency: 2/4
-
 3.Style: 0/4
-
 4.Documentation: 0/4
 
 
