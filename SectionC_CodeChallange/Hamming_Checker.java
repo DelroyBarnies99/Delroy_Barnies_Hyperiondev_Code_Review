@@ -1,5 +1,3 @@
-package recursion_examples;
-
 public class Hamming_Checker {
 
 	public static void main(String[] args) {
